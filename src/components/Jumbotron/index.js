@@ -1,13 +1,13 @@
 import React from "react";
 import "./style.css";
-function Navbar() {
+function Jumbotron() {
     return (
-        <nav className="navbar-expand-lg navb">
+        <div className="jumbotron">
             <h1>Employee Directory</h1>
-        </nav>
+        </div>
   
     );
   }
   
-  export default Navbar;
+  export default Jumbotron;
 
