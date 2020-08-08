@@ -4,7 +4,7 @@ function Jumbotron() {
     return (
         <div className="jumbotron">
             <h1>Employee Directory</h1>
-            <p>Please enter a name to search for an employee</p>
+            <p>Click on carrots to sort the table by last name; or use the search bar to search an employee by name</p>
         </div>
   
     );
