@@ -40,7 +40,7 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 ## Screenshot for the app
 
-![]()<br>
+![](https://github.com/seebell/Employee-Directory/blob/master/empdir.png)<br>
 ## Link for the deployed app
 https://seebell.github.io/Employee-Directory/
 
