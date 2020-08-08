@@ -10,7 +10,7 @@ function App() {
       <div>
         <Jumbotron />
         <Wrapper>
-        <Route exact path="/" component={Home} /> 
+        <Home /> 
         </Wrapper>
       </div>
     </Router>
