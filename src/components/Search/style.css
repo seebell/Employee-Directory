@@ -1,0 +1,12 @@
+.search {
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+}
+.btn:hover {
+    background-color: lightblue;
+}
+.btn {
+    background-color: skyblue;
+}
+
