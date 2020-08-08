@@ -1,0 +1,10 @@
+.container {
+    background-color: white;
+    margin-top: 30px;
+    padding-top: 25px;
+    height: 1000px;
+    text-align: center;
+    overflow: scroll;
+    box-shadow: 5px 10px 8px 10px #888888;
+    border-radius: 7px;
+}
